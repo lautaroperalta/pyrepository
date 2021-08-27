@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from pdfrw import PdfReader, PdfWriter
 from pagelabels import PageLabels
 
